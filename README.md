@@ -1,2 +1,3 @@
-# vpdate
-:newspaper: a simple CLI to keep your package.json version updated
+## :newspaper: vpdate
+
+a simple CLI to keep your package.json version updated

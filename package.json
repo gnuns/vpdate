@@ -1,0 +1,13 @@
+{
+  "name": "vpdate",
+  "version": "0.1.0",
+  "description": "a simple CLI to update your package.json version",
+  "main": "fio.js",
+  "bin": {
+    "vpdate": "./vpdate.js"
+  },
+  "repository": "git@github.com:gnuns/vpdate.git",
+  "author": "Gabriel Nunes <gabriel@multiverso.me>",
+  "license": "MIT",
+  "private": false
+}
