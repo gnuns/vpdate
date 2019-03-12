@@ -7,6 +7,11 @@ a simple CLI to keep your package.json version updated
 npm i -D vpdate
 ```
 
+
+#### demo
+
+![demo gif](docs/demo.gif)
+
 #### use
 * add the script
 ```js
