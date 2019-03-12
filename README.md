@@ -1,6 +1,6 @@
 ## :newspaper: vpdate
 
-[![npm version](https://img.shields.io/npm/v/vpdate.svg)](https://www.npmjs.com/package/vpdate)
+[![npm version](https://img.shields.io/npm/v/vpdate.svg?version)](https://www.npmjs.com/package/vpdate)
 
 a simple CLI to keep your package.json version updated
 
