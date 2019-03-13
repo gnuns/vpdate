@@ -4,15 +4,14 @@
 
 a simple CLI to help keep your package.json version up to date
 
+### demo
+
+![demo gif](docs/demo.gif)
+
 #### install
 ```sh
 npm i -D vpdate
 ```
-
-
-#### demo
-
-![demo gif](docs/demo.gif)
 
 #### use
 * add the script
